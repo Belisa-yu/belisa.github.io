@@ -1,0 +1,48 @@
+{
+    "users": [
+        {
+            "name": "Belisa",
+            "projects": [
+                {
+                    "name Project": "Esta web",
+                    "Dificulty": "Easy",
+                    "Time": "4h",
+                    "Tecnologies": "HTML, CSS, JS"
+                },
+                {
+                    "name Project":"Data Processing",
+                    "Dificulty":"Medium",
+                    "Time":"25h",
+                    "Tecnologies":"Python",
+                    "Link":"https://gitlab.com/beliyu0510-lgtm/practica_bbdd_2curso.git"
+                }
+            ]
+        },
+        {
+            "name": "Miguel",
+            "projects": [
+                {
+                    "name Project": "My neural network",
+                    "Dificulty": "Medium",
+                    "Time": "16h",
+                    "Tecnologies": "Python, numba, CUDA",
+                    "Link": "https://gitlab.com/MiguelBorre/my-neural-network"
+                },
+                {
+                    "name Project": "Sat Tester",
+                    "Dificulty": "Medium",
+                    "Time": "40h",
+                    "Tecnologies": "Java, Threading",
+                    "Link": "https://github.com/aledelmon/practica1"
+                },
+                {
+                    "name Project": "csv to mongoDB",
+                    "Dificulty": "Easy",
+                    "Time": "10h",
+                    "Tecnologies": "Python",
+                    "Link": "https://github.com/MiguelBorre/csv-to-mongodb"
+                }
+            ]
+        }
+    ]
+}
